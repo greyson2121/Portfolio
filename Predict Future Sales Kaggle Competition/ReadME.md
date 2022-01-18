@@ -5,3 +5,4 @@ The pre processing of the data was done in R and can be found at:  https://rpubs
 Due to the size of the data set, using R to build the models for analysis became untenable and inefficient.  This process was eventually moved to python.
 
 The Kaggle competition and all data can be found at: https://www.kaggle.com/c/competitive-data-science-predict-future-sales/overview
+ 
